@@ -1,0 +1,13 @@
+release/DeviceData.o
+release/communicationsettingdialog.o
+release/errohandle.o
+release/lj_v7060.o
+release/main.o
+release/mainwindow.o
+release/openethernetdialog.o
+release/qrc_resource.o
+release/moc_communicationsettingdialog.o
+release/moc_errohandle.o
+release/moc_lj_v7060.o
+release/moc_mainwindow.o
+release/moc_openethernetdialog.o

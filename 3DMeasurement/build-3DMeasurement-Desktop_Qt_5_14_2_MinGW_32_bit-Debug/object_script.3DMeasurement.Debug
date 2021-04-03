@@ -1,0 +1,13 @@
+debug/DeviceData.o
+debug/communicationsettingdialog.o
+debug/errohandle.o
+debug/lj_v7060.o
+debug/main.o
+debug/mainwindow.o
+debug/openethernetdialog.o
+debug/qrc_resource.o
+debug/moc_communicationsettingdialog.o
+debug/moc_errohandle.o
+debug/moc_lj_v7060.o
+debug/moc_mainwindow.o
+debug/moc_openethernetdialog.o
